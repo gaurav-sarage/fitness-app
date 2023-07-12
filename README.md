@@ -1,4 +1,4 @@
-Fitness App using React 18, Material UI and ExerciseDB
+Fitness App using **React 18**, **Material UI** and **ExerciseDB (RapidAPI)**
 
 # Getting Started with Create React App
 
