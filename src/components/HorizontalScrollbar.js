@@ -5,7 +5,7 @@ import { ScrollMenu, VisibilityContext } from 'react-horizontal-scrolling-menu/d
 
 import BodyPart from './BodyPart';
 
-const HorizontalScrollbar = ({ data, bodyPart, setBodyParts }) => {
+const HorizontalScrollbar = ({ data, bodyPart, setBodyPart }) => {
   return (
     <ScrollMenu>
       { data.map((item) => {
